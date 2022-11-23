@@ -2,3 +2,5 @@
 # Please do not hard code
 # make use of variables and dynamic variables
 # author: Simon Legah
+print ("car services automated")
+print ("hello $user your car needs servicing")
